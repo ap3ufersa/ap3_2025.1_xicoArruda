@@ -1,17 +1,18 @@
-### U1 - Aula 1 - 09/05/2025 - Configuração do ambiente e GitHub (1,0)
+### U1 - Aula 1 - 09/05/2025 - Configuração do ambiente e Olá mundo (1,0)
 
 ### Criação da conta no computador do laboratório
 
-1. Crie uma conta nova no computador do Lab. Informática 2, do tipo administrador
-2. Coloque a senha 123ap3
-3. Logue na nova conta
+1. Crie uma conta nova no computador do Lab. Informática 2, do tipo administrador.
+2. Login: ap3
+3. Senha: 123ap3
+4. Logue na nova conta
 
 ### Criação da conta no GitHub
 
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo). Aperte _Sign-up_ no canto superior direito em [github.com](https://www.github.com/).
 2. Baixe e instale o [GitHub Desktop](https://desktop.github.com).
 3. Configure o GitHub Desktop com a conta criada (_File->Options->Account_).
-4. Crie um novo repositório no formato **ap3_2024.1_primeironomeSegundonome** (ex.: ap3_2023.1_fulanoSilva). Decida se ele ficará público ou privado.
+4. Crie um novo repositório no formato **ap3_2025.1_primeironomeSegundonome** (ex.: ap3_2025.1_fulanoSilva). Deixe privado.
 5. Altere o arquivo README.md com informações sobre o repositório (dicas [aqui](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)).
 6. Faça _commit_ das alterações no repositório local.
 7. Faça _push_ do repositório local para o GitHub.
@@ -24,9 +25,3 @@
 2. Instale o [VSCode](https://code.visualstudio.com/).
 3. Instale as extensões: _Extension Pack for Java | Portuguese (Brazil) | Theme | vscode-icons | prettier java_.
 4. Siga para os exercícios.
-
-### Exercícios em Sala
-
-Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
-
-Entregue a folha assinada!
