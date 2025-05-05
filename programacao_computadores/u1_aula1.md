@@ -1,4 +1,5 @@
-## Aula 1 - 28/11/2024 - Git, GitHub, configuração do ambiente
+### U1 - Aula 1 - 09/05/2025 - Configuração do ambiente e GitHub (1,0)
+
 
 ### Criação da conta no GitHub
 
