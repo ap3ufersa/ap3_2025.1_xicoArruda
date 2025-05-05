@@ -1,4 +1,3 @@
-## [Algoritmos e Programação 3](Algoritmos e programação 3)
+## (Algoritmos e Programação 3)[ap3_2025.1_xicoArruda]
 
-## [Programação de Computadores](Programação de Computadores)
-
+## (Programação de Computadores)[programacao_computadores]
