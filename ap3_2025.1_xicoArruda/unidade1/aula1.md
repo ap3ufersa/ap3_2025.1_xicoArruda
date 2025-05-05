@@ -1,4 +1,10 @@
-### U1 - Aula 1 - 28/11/2024 - GitHub, configuração do ambiente e olá mundo (1,0)
+### U1 - Aula 1 - 09/05/2025 - Configuração do ambiente e GitHub (1,0)
+
+### Criação da conta no computador do laboratório
+
+1. Crie uma conta nova no computador do Lab. Informática 2, do tipo administrador
+2. Coloque a senha 123ap3
+3. Logue na nova conta
 
 ### Criação da conta no GitHub
 

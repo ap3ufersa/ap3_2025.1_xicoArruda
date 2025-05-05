@@ -1,42 +1,40 @@
-# AP3 - 2024.3 - UFERSA Angicos
+# AP3 - 2025.1 - UFERSA Angicos
 
-Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.3 do professor Francisco Arruda (Xico).
-
-Disciplina Programação de Computadores [aqui](prog_computadores).
+Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2025.1 do professor Francisco Arruda (Xico).
 
 ---
 
-### U1 - Aula 1 - 28/11/2024 - GitHub, configuração do ambiente e olá mundo (1,0)
+### U1 - Aula 1 - 09/11/2025 - GitHub, configuração do ambiente e olá mundo (1,0)
 
 Configuração do ambiente, Olá Mundo [aqui](unidade1/aula1.md).
 
-### U1 - Aula 2 - 29/11/2024 - Tipos Primitivos e Classes (2,0)
+### U1 - Aula 2 - 29/11/2025 - Tipos Primitivos e Classes (2,0)
 
-Controle de versão, classe Pessoa, coleções e [exercícios](unidade1/aula2.md).
+Controle de versão, classe Pessoa, coleções e [exercícios](unidade1/aulaX.md).
 
-### U1 - Aula 3 - 05/12/2024 - Classe, objeto, método, atributo (2,0)
+### U1 - Aula 3 - 05/12/2025 - Classe, objeto, método, atributo (2,0)
 
-Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O. e [exercícios](unidade1/aula3.md).
+Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O. e [exercícios](unidade1/aulaX.md).
 
-### U2 - Aula 4 - 06/12/2024 - Lista ligada, datas, Scanner (2,0)
+### U1 - Aula 5 - 20/06/2025 - Feriado
 
-Lista ligada, formatação da saída e datas com [exercícios](unidade1/aula4.md).
+Não tem aula.
 
-### U2 - Aula 5 - 12/12/2024 - Colação de Grau (0,0)
+---
 
-Não teve aula.
+### U2 - Aula 4 - 06/12/2025 - Lista ligada, datas, Scanner (2,0)
 
-### U2 - Aula 6 - 13/12/2024 - Colação de Grau (0,0)
+Lista ligada, formatação da saída e datas com [exercícios](unidade1/aulaX.md).
 
-Não teve aula.
+### U2 - Aula 7 - 19/12/2025 - Visibilidade, Composição (1,5)
 
-### U2 - Aula 7 - 19/12/2024 - Visibilidade, Composição (1,5)
+UML e visibilidade com [exercícios](unidade2/unidade2_exercicio2.md) para casa.
 
-UML e visibilidade com [exercícios](unidade2_exercicio2.md) para casa.
+---
 
-### U3 - Aula 8 - 20/12/2024 - Herança, Polimorfismo, Exceptions (3,0)
+### U3 - Aula 8 - 20/12/2025 - Herança, Polimorfismo, Exceptions (3,0)
 
-Exceptions com [exercícios](unidade3_exercicio1.md) para casa.
+Exceptions com [exercícios](unidade3/unidade3_exercicio1.md) para casa.
 
 ---
 
