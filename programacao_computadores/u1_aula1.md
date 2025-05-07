@@ -12,7 +12,7 @@
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo). Aperte _Sign-up_ no canto superior direito em [github.com](https://www.github.com/).
 2. Baixe e instale o [GitHub Desktop](https://desktop.github.com).
 3. Configure o GitHub Desktop com a conta criada (_File->Options->Account_).
-4. Crie um novo repositório no formato **ap3_2025.1_primeironomeSegundonome** (ex.: ap3_2025.1_fulanoSilva). Deixe privado.
+4. Crie um novo repositório no formato **pcomp_2025.1_primeironomeSegundonome** (ex.: pcomp_2025.1_fulanoSilva). Deixe privado.
 5. Altere o arquivo README.md com informações sobre o repositório (dicas [aqui](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)).
 6. Faça _commit_ das alterações no repositório local.
 7. Faça _push_ do repositório local para o GitHub.
