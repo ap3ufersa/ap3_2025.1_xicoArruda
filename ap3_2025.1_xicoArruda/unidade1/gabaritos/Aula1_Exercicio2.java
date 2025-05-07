@@ -1,12 +1,11 @@
-import java.util.Random;
 
 public class Aula1_Exercicio2 {
 
     public static void main(String[] args) {
 
-        Random geradorAleatorio = new Random();
+         geradorAleatorio = new (semente);
         
-        for (int i = 0; i < 999; i++) {
+        for (int i = 0; i < ?; i++) {
             System.out.println(geradorAleatorio.nextInt());
         }
     }
