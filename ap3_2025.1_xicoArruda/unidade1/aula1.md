@@ -1,12 +1,5 @@
 ### U1 - Aula 1 - 09/05/2025 - Configuração do ambiente e Olá mundo (1,0)
 
-### Criação da conta no computador do laboratório
-
-1. Crie uma conta nova no computador do Lab. Informática 2, do tipo administrador.
-2. Login: ap3
-3. Senha: 123ap3
-4. Logue na nova conta
-
 ### Criação da conta no GitHub
 
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo). Aperte _Sign-up_ no canto superior direito em [github.com](https://www.github.com/).
