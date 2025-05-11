@@ -27,7 +27,7 @@ classDiagram
         + Aluno()
         + Aluno(String nomeCompleto)
         + Aluno(String nomeCompleto, LocalDate dataNascimento)
-        //getters, setters, toString();
+        //getters, setters, toString()
     }
 ```
 
