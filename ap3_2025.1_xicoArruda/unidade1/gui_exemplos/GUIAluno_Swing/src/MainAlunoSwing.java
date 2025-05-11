@@ -12,7 +12,7 @@ public class MainAlunoSwing {
 
     private List<Aluno> alunos = new ArrayList<>();
     private JFrame mainFrame;
-    private ExibeAlunoSwing exibicaoAlunosGUI;
+    private ExibeAlunosSwing exibicaoAlunosGUI;
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new MainAlunoSwing().createAndShowGUI());
@@ -37,7 +37,7 @@ public class MainAlunoSwing {
         btnExibirAlunos.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                exibicaoAlunosGUI = new ExibeAlunoSwing(mainFrame, alunos);
+                exibicaoAlunosGUI = new ExibeAlunosSwing(mainFrame, alunos);
             }
         });
         mainFrame.add(btnExibirAlunos);

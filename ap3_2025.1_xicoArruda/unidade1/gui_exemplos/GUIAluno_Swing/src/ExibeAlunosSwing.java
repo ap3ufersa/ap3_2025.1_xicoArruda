@@ -14,7 +14,7 @@ public class ExibeAlunosSwing {
     private DefaultTableModel tableModel;
     private List<Aluno> alunos;
 
-    public ExibeAlunoSwing(JFrame mainFrame, List<Aluno> alunos) {
+    public ExibeAlunosSwing(JFrame mainFrame, List<Aluno> alunos) {
         this.alunos = alunos;
         createAndShowGUI();
     }

@@ -22,9 +22,9 @@ public class CadastraAlunoSwing {
     private JButton btnCadastrarAluno;
     private List<Aluno> alunos;
     private JFrame mainFrame;
-    private ExibeAlunoSwing exibicaoAlunosGUI;
+    private ExibeAlunosSwing exibicaoAlunosGUI;
 
-    public CadastraAlunoSwing(JFrame mainFrame, List<Aluno> alunos, ExibeAlunoSwing exibicaoAlunosGUI) {
+    public CadastraAlunoSwing(JFrame mainFrame, List<Aluno> alunos, ExibeAlunosSwing exibicaoAlunosGUI) {
         this.mainFrame = mainFrame;
         this.alunos = alunos;
         this.exibicaoAlunosGUI = exibicaoAlunosGUI;
@@ -94,7 +94,7 @@ public class CadastraAlunoSwing {
             if (exibicaoAlunosGUI != null) {
                 exibicaoAlunosGUI.atualizarListaAlunos();
             }
-
+            
             frame.dispose();
         } catch (Exception e) {
             JOptionPane.showMessageDialog(frame, "Erro ao cadastrar aluno: " + e.getMessage(), "Erro",
