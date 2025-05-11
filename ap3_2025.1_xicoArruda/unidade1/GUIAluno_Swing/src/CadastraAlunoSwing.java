@@ -15,16 +15,16 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.text.MaskFormatter;
 
-public class CadastroAlunoGUI {
+public class CadastraAlunoSwing {
     private JFrame frame;
     private JTextField tfNomeCompleto, tfNomeDaMae, tfMatricula;
     private JFormattedTextField tfDataNascimento;
     private JButton btnCadastrarAluno;
     private List<Aluno> alunos;
     private JFrame mainFrame;
-    private ExibicaoAlunosGUI exibicaoAlunosGUI;
+    private ExibeAlunoSwing exibicaoAlunosGUI;
 
-    public CadastroAlunoGUI(JFrame mainFrame, List<Aluno> alunos, ExibicaoAlunosGUI exibicaoAlunosGUI) {
+    public CadastraAlunoSwing(JFrame mainFrame, List<Aluno> alunos, ExibeAlunoSwing exibicaoAlunosGUI) {
         this.mainFrame = mainFrame;
         this.alunos = alunos;
         this.exibicaoAlunosGUI = exibicaoAlunosGUI;

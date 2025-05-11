@@ -8,13 +8,13 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
-public class ExibicaoAlunosGUI {
+public class ExibeAlunosSwing {
     private JFrame frame;
     private JTable table;
     private DefaultTableModel tableModel;
     private List<Aluno> alunos;
 
-    public ExibicaoAlunosGUI(JFrame mainFrame, List<Aluno> alunos) {
+    public ExibeAlunoSwing(JFrame mainFrame, List<Aluno> alunos) {
         this.alunos = alunos;
         createAndShowGUI();
     }

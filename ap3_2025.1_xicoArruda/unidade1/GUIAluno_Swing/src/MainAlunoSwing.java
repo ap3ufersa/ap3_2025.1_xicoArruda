@@ -8,14 +8,14 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
-public class MainAlunosGUI {
+public class MainAlunoSwing {
 
     private List<Aluno> alunos = new ArrayList<>();
     private JFrame mainFrame;
-    private ExibicaoAlunosGUI exibicaoAlunosGUI;
+    private ExibeAlunoSwing exibicaoAlunosGUI;
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new MainAlunosGUI().createAndShowGUI());
+        SwingUtilities.invokeLater(() -> new MainAlunoSwing().createAndShowGUI());
     }
 
     private void createAndShowGUI() {
@@ -28,7 +28,7 @@ public class MainAlunosGUI {
         btnCadastrarAluno.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                new CadastroAlunoGUI(mainFrame, alunos, exibicaoAlunosGUI);
+                new CadastraAlunoSwing(mainFrame, alunos, exibicaoAlunosGUI);
             }
         });
         mainFrame.add(btnCadastrarAluno);
@@ -37,7 +37,7 @@ public class MainAlunosGUI {
         btnExibirAlunos.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                exibicaoAlunosGUI = new ExibicaoAlunosGUI(mainFrame, alunos);
+                exibicaoAlunosGUI = new ExibeAlunoSwing(mainFrame, alunos);
             }
         });
         mainFrame.add(btnExibirAlunos);
