@@ -42,7 +42,7 @@ Exceptions com [exercícios](unidade3/unidade3_exercicio1.md) para casa.
 
 ### Material da Disciplina
 
-Material da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Use sua conta institucional.
+Material da disciplina [no gDrive](https://drive.google.com/open?id=14o4RGFiv-L3rsyZba_9s89CPgVW_4-Ak). Use sua conta institucional.
 
 ### Apostila Caelum
 
