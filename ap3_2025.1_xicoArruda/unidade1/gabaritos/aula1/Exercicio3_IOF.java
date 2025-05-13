@@ -1,4 +1,4 @@
-public class Aula1_Exercicio3 {
+public class Exercicio3_IOF {
 
     public static void main(String[] args) {
         double valor = 8711.77;

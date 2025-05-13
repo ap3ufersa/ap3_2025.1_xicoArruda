@@ -1,3 +1,5 @@
+package aula4;
+
 import java.util.Random;
 
 public class Aula4_TestaAluno {

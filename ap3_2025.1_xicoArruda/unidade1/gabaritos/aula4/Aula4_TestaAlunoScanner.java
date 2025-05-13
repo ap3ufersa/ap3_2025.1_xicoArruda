@@ -1,3 +1,5 @@
+package aula4;
+
 import java.util.Scanner;
 
 public class Aula4_TestaAlunoScanner {

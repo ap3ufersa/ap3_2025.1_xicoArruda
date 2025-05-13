@@ -8,9 +8,9 @@ Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2025.
 
 Configuração do ambiente, Olá Mundo [aqui](unidade1/aula1.md).
 
-### U1 - Aula 2 - ??/??/2025 - Tipos Primitivos e Classes (2,0)
+### U1 - Aula 2 - 16/05/2025 - Tipos Primitivos e Classes (2,0)
 
-Controle de versão, classe Pessoa, coleções e [exercícios](unidade1/aulaX.md).
+Controle de versão, classe Pessoa, coleções e [exercícios](unidade1/aula2.md).
 
 ### U1 - Aula 3 - ??/??/2025 - Classe, objeto, método, atributo (2,0)
 

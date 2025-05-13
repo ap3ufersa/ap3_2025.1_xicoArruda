@@ -1,4 +1,5 @@
-public class Aula1_Exercicio1 {
+public class Exercicio1_OlaMundo
+ {
 
     public static void main(String[] args) {
         System.out.println();
