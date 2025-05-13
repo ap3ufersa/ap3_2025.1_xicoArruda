@@ -9,9 +9,9 @@
 1. Configuração do ambiente para entrega dos exercícios [aqui](u1_aula1.md).
 2. (1,0) Exercicio 1 - MMD e nome [aqui](u1_exercicio1.md).
 
-### Aula 2 - ??/11/2025
+### Aula 2 - 16/05/2025
 
-1. (2,0) Exercicio 2 - Fluxograma com mermaid [aqui](u1_exercicioX.md).
+1. (2,0) Exercicio 2 - Fluxograma com mermaid [aqui](u1_exercicio2.md).
 
 ### Aula 3 - ??/??/2025
 
