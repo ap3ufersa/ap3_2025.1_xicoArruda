@@ -12,7 +12,7 @@
 
 - **String** é uma classe _muito_ especial usada para representar [sequências de caracteres](stringEmJava.png)
 
-- **GUI**: Posso usar IA para gerar interface gráfica [GUI - Graphical User Interface](exemplos_gui). M
+- **GUI**: Posso usar IA para gerar interface gráfica [GUI - Graphical User Interface](exemplos_gui).
 
 - **Diagrama de Classes**:
 
@@ -35,12 +35,12 @@ classDiagram
 
 ### 2. Exercícios em Sala
 
-### 0. Finalizar o exercício da Aula 1.
+### a. Finalizar o exercício da Aula 1.
 
-### 1. Fazer o exercício da Aula 2.
-
-Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
+### b. Fazer o exercício da Aula 2.
 
 Gabaritos para ajudar no exercícios [aqui](gabaritos).
+
+Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
 
 Entregue a folha assinada!
