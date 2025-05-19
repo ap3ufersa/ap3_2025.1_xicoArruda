@@ -6,6 +6,7 @@ public class Aula3_1_MediaProgOO {
 		xico.setNota1(7);
         xico.setNota2(8);
         xico.setNota3(9);
+        
         System.out.println();
         System.out.println(xico);
     }
