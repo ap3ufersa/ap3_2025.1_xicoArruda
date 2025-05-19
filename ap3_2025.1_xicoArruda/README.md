@@ -4,37 +4,60 @@ Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2025.
 
 ---
 
-### U1 - Aula 1 - 09/05/2025 - Configuração do ambiente e Olá mundo (1,0)
+### U1 - Aula 1 - 09/05/2025 - Git, GitHub, controle de versão, configuração do ambiente (1,0)
 
-Configuração do ambiente, Olá Mundo [aqui](unidade1/aula1.md).
+Configuração do ambiente [aqui](unidade1/aula1.md).
 
-### U1 - Aula 2 - 16/05/2025 - Tipos Primitivos e Classes (2,0)
+### U1 - Aula 2 - 16/05/2025 - Olá mundo, tipos primitivos (1,0)
 
-Controle de versão, classes, tipos primitivos e [exercícios](unidade1/aula2.md).
+Olá mundo, tipos primitivos, números aleatórios com [exercícios](unidade1/aula2.md).
 
-### U1 - Aula 3 - ??/??/2025 - Classe, objeto, método, atributo (2,0)
+### U1 - Aula 3 - 23/05/2025 - Classe, objeto, método, atributo (2,0)
 
-Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O. e [exercícios](unidade1/aulaX.md).
+Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O. e [exercícios](unidade1/aulaX.md).
 
-### U1 - Aula 4 - 20/06/2025 - Feriado
+### U1 - Aula 4 - 30/05/2025 - Scanner, datas (1,0)
 
-Não tem aula.
+Entrada e saída com Scanner, datas e [exercícios](unidade1/aulaX.md).
 
 ---
 
-### U2 - Aula 4 - ??/??/2025 - Lista ligada, datas, Scanner (2,0)
+### U2 - 06/06/2025 - Aula 5 - Visibilidade, composição 
+UML e visibilidade com [exercícios](unidade2/unidade2_exercicio2.md).
+
+### U2 - 13/06/2025 - Aula 6 - Listas e Java Collections (2,0)
 
 Lista ligada, formatação da saída e datas com [exercícios](unidade1/aulaX.md).
 
-### U2 - Aula 7 - ??/??/2025 - Visibilidade, Composição (1,5)
+### U2 - 20/06/2025 - Aula -1 - Feriado Corpus Christi
 
-UML e visibilidade com [exercícios](unidade2/unidade2_exercicio2.md) para casa.
+Não tem aula.
+
+### U2 - 27/06/2025 - Aula 7 - Herança e Polimorfismo 
+
+Herança e Polimorfismo.
+
+### U2 - 04/07/2025 - Aula 8 - Herança e Polimorfismo 
+
+Herança e Polimorfismo.
 
 ---
 
-### U3 - Aula 8 - ??/??/2025 - Herança, Polimorfismo, Exceptions (3,0)
+### U3 - 11/07/2025 - Aula 9 - Exceptions 
 
 Exceptions com [exercícios](unidade3/unidade3_exercicio1.md) para casa.
+
+### U3 - 18/07/2025 - Aula 10 - Exceptions 
+
+Exceptions com [exercícios](unidade3/unidade3_exercicio1.md) para casa.
+
+### U3 - 25/07/2025 - Aula 11 - Multithread 
+
+Multithread 
+
+### U3 - 01/08/2025 - Aula 12 - Multithread 
+
+Multithread 
 
 ---
 
