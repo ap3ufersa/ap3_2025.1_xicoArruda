@@ -1,4 +1,4 @@
-### U1 - Aula 2 - 16/05/2025 - Tipos Primitivos e Classes (2,0)
+### U1 - Aula 2 - 16/05/2025 - Olá mundo, tipos primitivos (1,0)
 
 ### 1. Considerações sobre OO e tipos primitivos:
 
@@ -14,7 +14,7 @@
 
 - **GUI**: Posso usar IA para gerar interface gráfica [GUI - Graphical User Interface](exemplos_gui).
 
-- **Diagrama de Classes**:
+- **Diagrama de Classes**: pode ser usado para começar a modelagem e virar software.
 
 ```mermaid
 classDiagram
@@ -28,16 +28,14 @@ classDiagram
 
         + Aluno()
         + Aluno(String nomeCompleto)
-        + Aluno(String nomeCompleto, LocalDate dataNascimento)
+        + Aluno(String nomeCompleto, int idade)
         //getters, setters, toString()
     }
 ```
 
-### 2. Exercícios em Sala
+### 2. Exercício em sala - Finalizar o exercício 1.
 
-### a. Finalizar o exercício da Aula 1.
-
-### b. Fazer o exercício da Aula 2.
+Salve em unidade1\exercicio1\...
 
 Gabaritos para ajudar no exercícios [aqui](gabaritos).
 

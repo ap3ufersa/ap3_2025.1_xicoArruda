@@ -1,5 +1,5 @@
-package aula3;
-public class Aula3_1_MediaProgOO {
+package exercicio3;
+public class MediaProgOO {
 
     public static void main(String[] args) {
         Aluno xico = new Aluno();

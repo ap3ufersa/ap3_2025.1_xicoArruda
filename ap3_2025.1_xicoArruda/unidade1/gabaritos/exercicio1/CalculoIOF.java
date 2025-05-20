@@ -1,4 +1,4 @@
-import java.text.DecimalFormat;
+
 
 public class CalculoIOF {
 
@@ -6,7 +6,7 @@ public class CalculoIOF {
         double valor = 8711.77;
         double valorcomImposto = valor * (6.38 / 100);
        
-        DecimalFormat formatador = new DecimalFormat();
+        formatador = new ();
         formatador.applyPattern("R$ #,##0.00");
 
         System.out.println();

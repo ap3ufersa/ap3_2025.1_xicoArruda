@@ -1,10 +1,10 @@
-import java.util.Random;
+
 
 public class NumerosAleatorios {
 
     public static void main(String[] args) {
 
-        Random geradorAleatorio = new Random();
+         geradorAleatorio = new ();
 
         int limite = 1000;
 

@@ -1,12 +1,14 @@
+package exercicio4;
+
 import java.util.Random;
 
-public class TestaAluno {
+public class Aula4_TestaAluno {
     public static void main(String[] args) {
 
         System.out.println();
         System.out.println("Um aluno aprovado:");
 
-        // um aluno aprovado com 7
+        // um aluno aprovado
         Aluno xico = new Aluno();
         xico.setNome("Xico Arruda");
         xico.setNota1(7);
@@ -24,6 +26,7 @@ public class TestaAluno {
             umAluno.setNota2(10 * random.nextDouble());
             umAluno.setNota3(10 * random.nextDouble());
             System.out.println(umAluno);
+            System.out.println(umAluno.getMedia());
         }
 
     }

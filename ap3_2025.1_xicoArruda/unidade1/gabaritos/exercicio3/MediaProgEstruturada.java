@@ -1,5 +1,5 @@
-package aula3;
-public class Aula3_1_MediaProgEstruturada {
+package exercicio3;
+public class MediaProgEstruturada {
 
     public static void main(String[] args) {
         double nota1 = 7.0;
