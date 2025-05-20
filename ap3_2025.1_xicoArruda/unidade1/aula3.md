@@ -2,7 +2,7 @@
 
 #### Exercícios Resolvidos
 
-0. Salve em unidade1\exercicio2\...
+0. Salve na pasta unidade1\exercicio2\
 
 1. Exercício de Programação Estruturada - Cálculo de Média: Crie um programa em Java que calcule a média de três notas utilizando programação estruturada. Não use classes ou objetos para isso.
 
@@ -32,10 +32,10 @@ classDiagram
 
 ### Exercícios em Sala
 
-Salve em unidade1\exercicio2\...
-
-Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
+Salve na pasta unidade1\exercicio2\
 
 Gabaritos para ajudar no exercícios [aqui](gabaritos).
+
+Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
 
 Entregue a folha assinada!

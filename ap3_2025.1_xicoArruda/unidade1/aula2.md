@@ -33,9 +33,9 @@ classDiagram
     }
 ```
 
-### 2. Exercício em sala - Finalizar o exercício 1.
+### Exercícios em Sala
 
-Salve em unidade1\exercicio1\...
+Salve na pasta unidade1\exercicio1\
 
 Gabaritos para ajudar no exercícios [aqui](gabaritos).
 
