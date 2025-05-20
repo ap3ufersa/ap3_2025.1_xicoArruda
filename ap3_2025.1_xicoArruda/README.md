@@ -17,7 +17,7 @@ Classe, Objeto, Método, Atributo, Prog. Estruturada, Prog. O.O. e [exercícios]
 
 ### U1 - Aula 4 - 30/05/2025 - Scanner, datas (1,0)
 
-Entrada e saída com Scanner, datas e [exercícios](unidade1/aulaX.md).
+Entrada e saída com Scanner, datas e [exercícios](unidade1/aula4.md).
 
 ---
 

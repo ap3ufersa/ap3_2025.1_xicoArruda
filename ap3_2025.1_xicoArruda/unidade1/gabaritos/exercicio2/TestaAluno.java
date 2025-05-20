@@ -6,7 +6,7 @@ public class TestaAluno {
         System.out.println();
         System.out.println("Um aluno aprovado:");
 
-        // um aluno aprovado com 7
+        // um aluno
         Aluno xico = new Aluno();
         xico.setNome("Xico Arruda");
         System.out.println(xico);
@@ -17,9 +17,7 @@ public class TestaAluno {
             Aluno umAluno = new Aluno();
             umAluno.setNome("AlunoNumero" + i);
             Random random = new Random();
-            umAluno.setNota1(10 * random.nextDouble());
-            umAluno.setNota2(10 * random.nextDouble());
-            umAluno.setNota3(10 * random.nextDouble());
+            umAluno.set...
             System.out.println(umAluno);
         }
 

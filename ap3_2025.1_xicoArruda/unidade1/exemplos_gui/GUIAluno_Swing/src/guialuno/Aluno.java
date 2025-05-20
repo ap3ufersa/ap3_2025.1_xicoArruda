@@ -1,3 +1,5 @@
+package guialuno;
+
 import java.time.LocalDate;
 
 public class Aluno {

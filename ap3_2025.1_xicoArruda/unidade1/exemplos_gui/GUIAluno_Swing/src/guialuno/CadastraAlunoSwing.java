@@ -1,3 +1,5 @@
+package guialuno;
+
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
@@ -14,6 +16,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.text.MaskFormatter;
+
+import guialuno.ExibeAlunosSwing;
 
 public class CadastraAlunoSwing {
     private JFrame frame;
@@ -94,7 +98,7 @@ public class CadastraAlunoSwing {
             if (exibicaoAlunosGUI != null) {
                 exibicaoAlunosGUI.atualizarListaAlunos();
             }
-            
+
             frame.dispose();
         } catch (Exception e) {
             JOptionPane.showMessageDialog(frame, "Erro ao cadastrar aluno: " + e.getMessage(), "Erro",
