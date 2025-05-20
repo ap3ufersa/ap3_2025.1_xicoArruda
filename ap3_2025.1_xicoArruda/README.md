@@ -28,7 +28,7 @@ UML e visibilidade com [exercícios](unidade2/unidade2_exercicio2.md).
 
 Lista ligada, formatação da saída e datas com [exercícios](unidade1/aulaX.md).
 
-### U2 - Aula 0 - 20/06/2025 - Feriado de Corpus Christi
+### U2 - Aula _ - 20/06/2025 - Feriado de Corpus Christi
 
 Não tem aula.
 
