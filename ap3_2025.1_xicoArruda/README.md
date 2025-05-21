@@ -69,7 +69,7 @@ Multithread.
 
 ### Java sem instalar nada
 
-- Material da [W3C](https://www.w3schools.com/java/).
+- Direto da [W3C](https://www.w3schools.com/java/).
 
 ### Apostila Caelum
 
