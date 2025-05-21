@@ -66,9 +66,13 @@ Multithread.
 
 Material da disciplina [no gDrive](https://drive.google.com/open?id=14o4RGFiv-L3rsyZba_9s89CPgVW_4-Ak). Use sua conta institucional.
 
+### Java sem instalar nada
+
+- Material da [W3C](https://www.w3schools.com/java/)
+
 ### Apostila Caelum
 
-[Apostila Completa](https://www.alura.com.br/apostila-java-orientacao-objetos/)
+- [Apostila Completa](https://www.alura.com.br/apostila-java-orientacao-objetos/)
 
 ### Vídeos - Java e POO
 
