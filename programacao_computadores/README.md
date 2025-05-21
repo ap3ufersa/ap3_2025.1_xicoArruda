@@ -13,9 +13,9 @@
 
 1. (2,0) Exercicio 2 - Fluxograma com mermaid [aqui](u1_exercicio2.md).
 
-### Aula 3 - ??/??/2025
+### Aula 3 - 23/05/2025
 
-1. (2,0) Exercicio 3 - Questão 1 [daqui](u1_exercicioX.md).
+1. (2,0) Exercicio 3 - Questão 1 [daqui](u1_exercicio3.md).
 
 ---
 
