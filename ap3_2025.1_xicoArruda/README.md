@@ -22,6 +22,7 @@ Entrada e saída com Scanner, datas e [exercícios](unidade1/aula4.md).
 ---
 
 ### U2 - Aula 5 - 06/06/2025 - Visibilidade, composição 
+
 UML e visibilidade com [exercícios](unidade2/unidade2_exercicio2.md).
 
 ### U2 -  Aula 6 - 13/06/2025 - Listas e Java Collections (2,0)
@@ -44,11 +45,11 @@ Herança e Polimorfismo.
 
 ### U3 - Aula 9 - 11/07/2025 - Exceptions 
 
-Exceptions com [exercícios](unidade3/unidade3_exercicio1.md) para casa.
+Exceptions com [exercícios](unidade3/unidade3_exercicio1.md) para casa?.
 
 ### U3 - Aula 10 - 18/07/2025 - Exceptions
 
-Exceptions com [exercícios](unidade3/unidade3_exercicio1.md) para casa.
+Exceptions com [exercícios](unidade3/unidade3_exercicio1.md) para casa?.
 
 ### U3 - Aula 11 - 25/07/2025 - Multithread 
 
@@ -68,24 +69,24 @@ Multithread.
 
 ### Java sem instalar nada
 
-- Material da [W3C](https://www.w3schools.com/java/)
+- Material da [W3C](https://www.w3schools.com/java/).
 
 ### Apostila Caelum
 
-- [Apostila Completa](https://www.alura.com.br/apostila-java-orientacao-objetos/)
+- [Apostila Completa](https://www.alura.com.br/apostila-java-orientacao-objetos/).
 
 ### Vídeos - Java e POO
 
-- [Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+- [Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
 
-- [Por Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+- [Por Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r).
 
-- [Por Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+- [Por Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY).
 
 ### Cursos - Git e GitHub
 
-- [Por Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
+- [Por Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4).
 
-- [Por Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+- [Por Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA).
 
-- [Markdown por Gustavo Guanabara](/git_github_gguanabara)
+- [Markdown por Gustavo Guanabara](/git_github_gguanabara).
