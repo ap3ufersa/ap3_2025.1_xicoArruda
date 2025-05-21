@@ -1,4 +1,5 @@
-package exercicio3;
+package ?;
+
 public class MediaProgEstruturada {
 
     public static void main(String[] args) {
@@ -6,8 +7,8 @@ public class MediaProgEstruturada {
         double nota2 = 8.0;
         double nota3 = 9.0;
 
-        double soma = nota1 + nota2 + nota3;
-        double media = soma / 3;
+        soma = nota1 + nota2 + nota3;
+        media = ?;
 
         System.out.println();
         System.out.println("Média=" + media);

@@ -1,12 +1,11 @@
-package exercicio3;
+package ?;
+
 public class MediaProgOO {
 
     public static void main(String[] args) {
         Aluno xico = new Aluno();
-		xico.setNota1(7);
-        xico.setNota2(8);
-        xico.setNota3(9);
-        
+		xico.setNota1(?);
+                
         System.out.println();
         System.out.println(xico);
     }
